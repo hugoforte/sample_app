@@ -18,6 +18,7 @@ group :test do
   gem 'rb-fsevent', '0.9.3', :require => false
   gem 'growl', '1.0.3'
   gem 'launchy'
+  gem 'factory_girl_rails', '4.2.0'
 end
 
 group :assets do
